@@ -7,3 +7,9 @@ I am not responsible for any damage you cause with this tool. Use it at your own
 
 ## Description
 This tool is used to extract passwords from browsers.
+
+Current supported browsers:
+- Google Chrome
+
+Current supported OS:
+- Windows
