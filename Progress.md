@@ -1,6 +1,6 @@
 # Progress Tracker
 
-## Progress:
+## In Progress:
 
 ## To Do:
 [+] Password extractor (FireFox/Windows)
